@@ -1,0 +1,15 @@
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\bin\Debug\net7.0\Rel-Dol.exe
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\bin\Debug\net7.0\Rel-Dol.deps.json
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\bin\Debug\net7.0\Rel-Dol.runtimeconfig.json
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\bin\Debug\net7.0\Rel-Dol.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\bin\Debug\net7.0\Rel-Dol.pdb
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\obj\Debug\net7.0\Rel-Dol.csproj.AssemblyReference.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\obj\Debug\net7.0\Rel-Dol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\obj\Debug\net7.0\Rel-Dol.AssemblyInfoInputs.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\obj\Debug\net7.0\Rel-Dol.AssemblyInfo.cs
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\obj\Debug\net7.0\Rel-Dol.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\obj\Debug\net7.0\Rel-Dol.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\obj\Debug\net7.0\refint\Rel-Dol.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\obj\Debug\net7.0\Rel-Dol.pdb
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\obj\Debug\net7.0\Rel-Dol.genruntimeconfig.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\Rel-Dol\obj\Debug\net7.0\ref\Rel-Dol.dll

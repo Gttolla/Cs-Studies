@@ -1,0 +1,15 @@
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\bin\Debug\net7.0\VNum.exe
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\bin\Debug\net7.0\VNum.deps.json
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\bin\Debug\net7.0\VNum.runtimeconfig.json
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\bin\Debug\net7.0\VNum.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\bin\Debug\net7.0\VNum.pdb
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\obj\Debug\net7.0\VNum.csproj.AssemblyReference.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\obj\Debug\net7.0\VNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\obj\Debug\net7.0\VNum.AssemblyInfoInputs.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\obj\Debug\net7.0\VNum.AssemblyInfo.cs
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\obj\Debug\net7.0\VNum.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\obj\Debug\net7.0\VNum.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\obj\Debug\net7.0\refint\VNum.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\obj\Debug\net7.0\VNum.pdb
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\obj\Debug\net7.0\VNum.genruntimeconfig.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\VNum\obj\Debug\net7.0\ref\VNum.dll

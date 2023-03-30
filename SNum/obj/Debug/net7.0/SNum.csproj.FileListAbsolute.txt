@@ -1,0 +1,15 @@
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\bin\Debug\net7.0\SNum.exe
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\bin\Debug\net7.0\SNum.deps.json
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\bin\Debug\net7.0\SNum.runtimeconfig.json
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\bin\Debug\net7.0\SNum.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\bin\Debug\net7.0\SNum.pdb
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\obj\Debug\net7.0\SNum.csproj.AssemblyReference.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\obj\Debug\net7.0\SNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\obj\Debug\net7.0\SNum.AssemblyInfoInputs.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\obj\Debug\net7.0\SNum.AssemblyInfo.cs
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\obj\Debug\net7.0\SNum.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\obj\Debug\net7.0\SNum.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\obj\Debug\net7.0\refint\SNum.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\obj\Debug\net7.0\SNum.pdb
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\obj\Debug\net7.0\SNum.genruntimeconfig.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\SNum\obj\Debug\net7.0\ref\SNum.dll

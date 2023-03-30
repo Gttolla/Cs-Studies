@@ -1,0 +1,15 @@
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\bin\Debug\net7.0\Cel-Fah.exe
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\bin\Debug\net7.0\Cel-Fah.deps.json
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\bin\Debug\net7.0\Cel-Fah.runtimeconfig.json
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\bin\Debug\net7.0\Cel-Fah.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\bin\Debug\net7.0\Cel-Fah.pdb
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\obj\Debug\net7.0\Cel-Fah.csproj.AssemblyReference.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\obj\Debug\net7.0\Cel-Fah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\obj\Debug\net7.0\Cel-Fah.AssemblyInfoInputs.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\obj\Debug\net7.0\Cel-Fah.AssemblyInfo.cs
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\obj\Debug\net7.0\Cel-Fah.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\obj\Debug\net7.0\Cel-Fah.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\obj\Debug\net7.0\refint\Cel-Fah.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\obj\Debug\net7.0\Cel-Fah.pdb
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\obj\Debug\net7.0\Cel-Fah.genruntimeconfig.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\Cel-Fah\obj\Debug\net7.0\ref\Cel-Fah.dll
