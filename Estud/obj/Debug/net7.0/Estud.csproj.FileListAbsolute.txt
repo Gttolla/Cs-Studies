@@ -1,0 +1,15 @@
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\bin\Debug\net7.0\Estud.exe
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\bin\Debug\net7.0\Estud.deps.json
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\bin\Debug\net7.0\Estud.runtimeconfig.json
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\bin\Debug\net7.0\Estud.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\bin\Debug\net7.0\Estud.pdb
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\obj\Debug\net7.0\Estud.csproj.AssemblyReference.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\obj\Debug\net7.0\Estud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\obj\Debug\net7.0\Estud.AssemblyInfoInputs.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\obj\Debug\net7.0\Estud.AssemblyInfo.cs
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\obj\Debug\net7.0\Estud.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\obj\Debug\net7.0\Estud.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\obj\Debug\net7.0\refint\Estud.dll
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\obj\Debug\net7.0\Estud.pdb
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\obj\Debug\net7.0\Estud.genruntimeconfig.cache
+C:\Users\PRO\Downloads\LucasChaves\C#\Estud\obj\Debug\net7.0\ref\Estud.dll
